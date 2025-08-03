@@ -53,6 +53,7 @@ npm run dev
 - 🔷 **TypeScript** - Type safety and better development experience
 - 🎨 **Tailwind CSS 4** - Latest Tailwind version
 - 📝 **ESLint** - Code linting with TypeScript support
+- 🗂 **React Router DOM** - Routes
 - 🔥 **Hot Module Replacement** - Fast refresh during development
 
 ## 🛠️ Development
